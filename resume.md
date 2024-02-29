@@ -1,3 +1,4 @@
 Resume
-Im so confused
-yayayay i am such a good coder
+Name : Quinn Reilly
+Major : Computer Science
+Exp. Graduation Date : 2027
