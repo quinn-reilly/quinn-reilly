@@ -19,7 +19,7 @@ Activities: Game Development Club, DIY Craft Club, Sewing Club
 
 GPA: 3.9/4.0 | Dean’s List 
 
-Piedmont High School // Piedmont, CA// Graduated June 2023
+Piedmont High School // Piedmont, CA // Graduated June 2023
 
 Honors Society Earned All 8 Semesters // AP Scholar Award
 
