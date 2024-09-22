@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, my name is Quinn Reilly (she/her)
+## I am a second-year computer science major at Northeastern University with a concentration in AI, and a minor in Game Design.
+## I am currently working on the implimentation of a game of Tetris in Java. 
 
 <!--
 **quinn-reilly/quinn-reilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
