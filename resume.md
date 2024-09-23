@@ -2,7 +2,7 @@
 
 Boston, MA | (510) 679-8143 | reilly.q@northeastern.edu
 
-Availability: January - June 2024 | LinkedIn | GitHub
+Availability: January - June 2025 | LinkedIn | GitHub
 
 
 ## Education
